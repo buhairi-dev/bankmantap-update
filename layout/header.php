@@ -61,7 +61,7 @@
     <a class="nav-link mr-3 dropdown-toggle" href="" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">BISNIS</a>
     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
       <a class="dropdown-item" href="pinjaman.php">Pinjaman Mantap</a>
-      <a class="dropdown-item" href="simpanan.php">Simpanan Mikro</a>
+      <a class="dropdown-item" href="simpanan.php">Simpanan Mantap</a>
       <a class="dropdown-item" href="jasa-bank.php">Jasa Bank</a>
       <a class="dropdown-item" href="simulasi.php">Simulasi</a>
 
