@@ -65,9 +65,7 @@
       <a class="dropdown-item" href="jasa-bank.php">Jasa Bank</a>
       <a class="dropdown-item" href="simulasi.php">Simulasi</a>
 
-      <!--<a class="dropdown-item" href="kredit-mantap-pensiun.php">Kredit Mantap Pensiun</a>
-      <a class="dropdown-item" href="pinjaman-ritel.php">Pinjaman Ritel</a>
-      <a class="dropdown-item" href="pinjaman-mikro.php">Pinjaman Mikro</a>-->
+      
     </div>
     </li> 
 
@@ -76,30 +74,7 @@
     <li class="nav-item"><a class="nav-link mr-3" href="kantor-cabang.php" tabindex="-1" aria-disabled="true">CABANG</a></li>
     <li class="nav-item"><a class="nav-link mr-3" href="karir.php" tabindex="-1" aria-disabled="true">KARIR</a></li>   
 
-    <!--
-    <li class="nav-item dropdown">
-    <a class="nav-link mr-3 dropdown-toggle" href="" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">PINJAMAN</a>
-    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-      <a class="dropdown-item" href="kredit-mantap-pensiun.php">Kredit Mantap Pensiun</a>
-      <a class="dropdown-item" href="pinjaman-ritel.php">Pinjaman Ritel</a>
-      <a class="dropdown-item" href="pinjaman-mikro.php">Pinjaman Mikro</a>
-    </div>
-    </li> 
-
-
-
-    <li class="nav-item dropdown">
-    <a class="nav-link mr-3 dropdown-toggle" href="" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">SIMPANAN</a>
-    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-      <a class="dropdown-item" href="simpanan-tabunganku.php">Simpanan Tabunganku</a>
-      <a class="dropdown-item" href="tabungan-simantap-berjangka.php">Tabungan siMantap Berjangka</a>
-      <a class="dropdown-item" href="tabungan-simantap.php">Tabungan Simantap</a>
-      <a class="dropdown-item" href="tabungan-simantap-pensiun.php">Tabungan Simantap Pensiun</a>
-      <a class="dropdown-item" href="deposito-mantap.php">Deposito Mantap</a>
-      <a class="dropdown-item" href="giro.php">Giro</a>
-    </div>
-    </li> 
-
+    
     
      
     <li class="nav-item dropdown">
